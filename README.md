@@ -1,1 +1,2 @@
-# Copy-of-GE-Clan-React
+GE-Clan-React website
+
